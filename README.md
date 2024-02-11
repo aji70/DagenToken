@@ -24,3 +24,7 @@ Solidity ^0.8.20
 OpenZeppelin Contracts library
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+PS i ran out of gas at the end of my video but if you pay attention all the functions worked was when i retried redeeming the gas ran out
+contractAddress:0x9F0417aAbe83Df3D4D6E63Fc95fe1C5a4e153a75
+contractAddress link: https://testnet.snowtrace.io/token/0x9F0417aAbe83Df3D4D6E63Fc95fe1C5a4e153a75?chainId=43113
